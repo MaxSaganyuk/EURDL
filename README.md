@@ -20,3 +20,4 @@ The patter can repeat the direction depending on the key like UURD or DDDL etc.
 
 ## _Program_
 
+<img src="readMeImages\2.png"></img>
