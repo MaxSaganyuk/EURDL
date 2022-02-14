@@ -10,5 +10,13 @@ EURDL encodes the pattern with the information in the key itself.
 
 Example key: "hn1rj!4i9da27gpzyolexcfk0bs3$t~5w68qvum@"
 
-The key includes 4 "other" characters. Their position is what determines the pattern of movement on the grid. 
+The key includes 4 "other" characters. Their position is what determines the pattern of movement on the grid. The position of "other" character - n. n mod 4 = {0 - U, 1 - R, 2 - D, 3 - L}. For this key, in form of the grid it looks like this:
+
+<img src="readMeImages\1.png"></img>
+
+So the pattern for this key is RUDL.
+
+The patter can repeat the direction depending on the key like UURD or DDDL etc.
+
+## _Program_
 
