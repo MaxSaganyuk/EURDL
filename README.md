@@ -6,7 +6,7 @@
 Original algorithm is described here: https://github.com/MaxSaganyuk/URDL-Cipher
 
 New version of the algorithm includes different patterns instead of only Up Right Down Left pattern. 
-EURDL encodes the pattern with the information in the key itself. 
+EURDL encodes the pattern with the information in the key itself. This makes the closed text more difficult to cryptoanalise
 
 Example key: "hn1rj!4i9da27gpzyolexcfk0bs3$t~5w68qvum@"
 
