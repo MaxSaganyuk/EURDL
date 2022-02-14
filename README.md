@@ -28,11 +28,13 @@ Encipher/decipher example:
 
 <img src="readMeImages\3.png"></img>
 
-If, for example, we change the key. Move @ form the end to the start of the key (@hn1rj!4i9da27gpzyolexcfk0bs3$t~5w68qvum) - the pattern changes from RUDL to UDRL (also changes the grid itself). Resulting enciphering looks like this:
+If, for example, we change the key. Move @ form the end to the start of the key @hn1rj!4i9da27gpzyolexcfk0bs3$t~5w68qvum - the pattern changes from RUDL to UDRL (also changes the grid itself). Resulting enciphering looks like this:
 
 <img src="readMeImages\4.png"></img>
 
-Meaning, a small change in the key makes deciphering closed text harder. As an example - heres an attempt to decipher text that was enciphered with "@hn1rj!4i9da27gpzyolexcfk0bs3$t~5w68qvum" key with "hn1rj!4i9da27gpzyolexcfk0bs3$t~5w68qvum@" key
+Meaning, a small change in the key makes deciphering closed text harder. As an example - heres an attempt to decipher text that was enciphered with 
+second key with 
+first key
 
 <img src="readMeImages\5.png"></img>
 
